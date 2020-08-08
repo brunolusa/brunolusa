@@ -8,5 +8,6 @@
 - :speaking_head: TDC | SP | 2020
 - :motorcycle: Apaixonado por motos
 - :rocket: Projeto atual: _api-carros_
+
 Veja em meu repositório meu projeto atual, onde consiste em uma API Springboot, um client Java+RestAssured, um Teste Automatizado com Java+Maven, um front-end em React consumindo a API e uma automação Front utilizando Java+Selenium+Maven.
 
