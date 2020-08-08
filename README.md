@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Bruno Lusa 👋
+
+![Twitter Follow](https://img.shields.io/twitter/follow/brunolusa_?style=social)
 
 <!--
 **brunolusa/brunolusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
