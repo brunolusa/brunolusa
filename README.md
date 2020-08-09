@@ -1,6 +1,6 @@
 ### Olá, me chamo Bruno Lusa! 👋
 
-**Entusiasta da TI e tester pro vocação, busco contribuir para uma prática de desenvolvimento de software com maior qualidade, livre de bug's e aderentes às melhores práticas.**
+**Entusiasta da TI e tester pro vocação, busco contribuir para uma prática de desenvolvimento de software com maior qualidade, sem defeitos e cada vez mais aderentes às melhores práticas de desenvolvimento.**
 
 - 🔭 Atualmente Quality Engineer no Sicredi :brazil:
 - :speaking_head: TDC | SP | 2020
