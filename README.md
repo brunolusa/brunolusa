@@ -5,6 +5,7 @@
 - 🔭 Atualmente Quality Engineer no Sicredi :brazil:
 - :speaking_head: TDC | SP  | 2020 [_Veja aqui os Slides da Apresentação_](https://www.slideshare.net/BrunoLusadaCosta/thedevconf-devtest-sp-2020)
 - :speaking_head: TDC | REC | 2020
+- :speaking_head: TDC | POA | 2020
 - :motorcycle: Apaixonado por motos
 - :rocket: Projeto atual: _api-carros_
 
