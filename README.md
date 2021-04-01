@@ -26,7 +26,6 @@ Veja neste repositório meu projeto atual, que consiste em:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunolusa&show_icons=true&locale=en" alt="brunolusa" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunolusa&label=Profile%20views&color=0e75b6&style=flat" alt="brunolusa" /> </p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
