@@ -10,7 +10,12 @@
 - :motorcycle: Apaixonado por motos
 - :rocket: Projeto atual: _api-carros_
 
-Veja em meu repositório meu projeto atual, onde consiste em uma API Springboot, um client Java+RestAssured, um Teste Automatizado com Java+Maven, um front-end em React consumindo a API e uma automação Front utilizando Java+Selenium+Maven.
+Veja neste repositório meu projeto atual, que consiste em: 
+* uma API Springboot;
+* um client Java+RestAssured;
+* um Teste Automatizado com Java+Maven+Client;
+* um front-end em React consumindo a API ;
+* uma automação Front utilizando Java+Selenium+Maven.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunolusa&label=Profile%20views&color=0e75b6&style=flat" alt="brunolusa" /> </p>
 
