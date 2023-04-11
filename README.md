@@ -3,7 +3,7 @@
 
 **Entusiasta da TI e tester pro vocação, busco contribuir para uma prática de desenvolvimento de software com maior qualidade, sem defeitos e cada vez mais aderentes às melhores práticas de desenvolvimento.**
 
-- 🔭 Atualmente Quality Engineer no Sicredi :brazil:
+- 🔭 Atualmente Quality Engineer Leader no Sicredi :brazil:
 - :speaking_head: TDC | SP  | 2020 [_Veja aqui os Slides da Apresentação_](https://www.slideshare.net/BrunoLusadaCosta/thedevconf-devtest-sp-2020)
 - :speaking_head: TDC | REC | 2020
 - :speaking_head: TDC | POA | 2020
