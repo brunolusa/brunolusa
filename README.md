@@ -7,8 +7,8 @@
 - :speaking_head: TDC | SP  | 2020 [_Veja aqui os Slides da Apresentação_](https://www.slideshare.net/BrunoLusadaCosta/thedevconf-devtest-sp-2020)
 - :speaking_head: TDC | REC | 2020
 - :speaking_head: TDC | POA | 2020
-- :speaking_head: TDC | INNOVATION | 2023 [_Veja aqui os Slides da Apresentação_](https://drive.google.com/file/d/1b814DuXDLUDiBnx4-h16iYtLWNBx1xba/view?usp=drive_link)
-- :speaking_head: TDC | FUTURE | 2023 _coming soon_
+- :speaking_head: TDC | INNOVATION | 2023 [_Veja aqui os Slides da Apresentação_](https://pt.slideshare.net/BrunoLusadaCosta/thedevconf-devtest-flp-2023pdf)
+- :speaking_head: TDC | FUTURE | 2023 [_Veja aqui os Slides da Apresentação_](https://pt.slideshare.net/BrunoLusadaCosta/thedevconf-devtest-poa-2023pdf)
 - :motorcycle: Apaixonado por motos
 - :rocket: Projeto atual: _api-carros_
 
