@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Bruno Lusa</h1>
-<h3 align="center">QA | Speaker | Tester | Dev</h3>
+<h3 align="center">QE | Speaker | Tester | Dev</h3>
 
 **Entusiasta da TI e tester pro vocação, busco contribuir para uma prática de desenvolvimento de software com maior qualidade, sem defeitos e cada vez mais aderentes às melhores práticas de desenvolvimento.**
 
@@ -10,7 +10,6 @@
 - :speaking_head: TDC | INNOVATION | 2023 [_Veja aqui os Slides da Apresentação_](https://pt.slideshare.net/BrunoLusadaCosta/thedevconf-devtest-flp-2023pdf)
 - :speaking_head: TDC | FUTURE | 2023 [_Veja aqui os Slides da Apresentação_](https://pt.slideshare.net/BrunoLusadaCosta/thedevconf-devtest-poa-2023pdf)
 - :motorcycle: Apaixonado por motos
-- :rocket: Projeto atual: _api-carros_
 
 Veja neste repositório meu projeto atual, que consiste em: 
 * uma API Springboot;
