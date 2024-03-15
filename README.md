@@ -9,6 +9,7 @@
 - :speaking_head: TDC | POA | 2020
 - :speaking_head: TDC | INNOVATION | 2023 [_Veja aqui os Slides da Apresentação_](https://pt.slideshare.net/BrunoLusadaCosta/thedevconf-devtest-flp-2023pdf)
 - :speaking_head: TDC | FUTURE | 2023 [_Veja aqui os Slides da Apresentação_](https://pt.slideshare.net/BrunoLusadaCosta/thedevconf-devtest-poa-2023pdf)
+- :speaking_head: TDC | SUMMIT AI SP | 2024
 - :motorcycle: Apaixonado por motos
 
 Veja neste repositório meu projeto atual, que consiste em: 
