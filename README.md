@@ -12,6 +12,8 @@
 - :speaking_head: TDC | SUMMIT AI SP | 2024
 - :motorcycle: Apaixonado por motos
 
+- Veja todas as minhas participações [aqui](https://thedevconf.com/palestrante/bruno-lusa-da-costa)!
+
 Veja neste repositório meu projeto atual, que consiste em: 
 * uma API Springboot;
 * um client Java+RestAssured;
