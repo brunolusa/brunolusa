@@ -9,7 +9,7 @@
 - :speaking_head: TDC | POA | 2020
 - :speaking_head: TDC | INNOVATION | 2023 [_Veja aqui os Slides da Apresentação_](https://pt.slideshare.net/BrunoLusadaCosta/thedevconf-devtest-flp-2023pdf)
 - :speaking_head: TDC | FUTURE | 2023 [_Veja aqui os Slides da Apresentação_](https://pt.slideshare.net/BrunoLusadaCosta/thedevconf-devtest-poa-2023pdf)
-- :speaking_head: TDC | SUMMIT AI SP | 2024
+- :speaking_head: TDC | SUMMIT AI SP | 2024 [_Veja aqui os Slides da Apresentação_](https://pt.slideshare.net/slideshow/thedevconferencesummitaisaopaulo2024pdf/267096562(
 - :motorcycle: Apaixonado por motos
 
 - Veja todas as minhas participações [aqui](https://thedevconf.com/palestrante/bruno-lusa-da-costa)!
